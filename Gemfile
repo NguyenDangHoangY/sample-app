@@ -14,7 +14,7 @@ gem'will_paginate','3.1.8'
 gem'bootstrap-will_paginate','1.0.0'
 
 gem'bootstrap-sass','3.4.1'
-
+gem'active_storage_validations','0.8.2'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
